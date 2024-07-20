@@ -48,9 +48,9 @@ import { useState } from 'react'
             />
            <Image
             source={icons.play}
-            className='w-60 h-60 absolute'
-            resizeMode='contain'
-           />
+            className="w-12 h-12 absolute"
+            resizeMode="contain"
+          />
 
         </TouchableOpacity>
       )}
